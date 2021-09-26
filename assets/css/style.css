@@ -285,7 +285,7 @@ footer {
         margin:0 ;
             }
 
-    #left-about, right-about {
+    #left-about, #right-about {
         width:100%;
         float: left;
         padding: 0;    
@@ -297,6 +297,15 @@ footer {
         float: left;
         padding:0;
     }    
+
+    #times > div {
+
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+
+    }
 
     hr {
         display: none;
@@ -340,3 +349,4 @@ footer {
         padding: 0 20px;
 
         }
+    }
